@@ -1,5 +1,5 @@
 {
-  "name": "switchblade",
+  "name": "VIRUS",
   "version": "1.0.0",
   "description": "The multi-purpose Discord bot",
   "main": "shard.js",
@@ -20,12 +20,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/SwitchbladeBot/switchblade.git"
+    "url": "git+ssh://aoticwise.github.io/virus/"
   },
   "keywords": [
     "discord"
   ],
-  "author": "Switchblade Team",
+  "author": "aoticwise",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/SwitchbladeBot/switchblade/issues"
